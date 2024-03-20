@@ -22,6 +22,6 @@ Open Door Anim v1.2.1: https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-I don't have rights for any of these mods nor files, all copyrights goes to their autors, I'm just making it work on Lutris with Wine.
+I don't have rights for any of these mods or files too, all copyrights go to their authors. I'm just making it work on Lutris with Wine.
 
-Big thx for Junior_Djjr and MixMods for repacking all these mods.
+Big thanks to Junior_Djjr and MixMods for repacking all these mods.
